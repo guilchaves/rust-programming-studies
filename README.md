@@ -1,8 +1,13 @@
-# The Rust Programming Languague 
+![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+# Rust Programming Studies
 
-This repository contains some study projects from my journey of studying rust programming by reading [The Rust Programming Language](https://www.amazon.com/s?k=the%20rust%20programming%20language)
-from Steve Klabnik and Carol Nichols.
+This repository houses my practical ventures into Rust programming, driven by my readings of "The Rust Programming Language" by Steve Klabnik and Carol Nichols.
 
-It will also contain some exercises, code katas and other significant stuff related to rust programming.
+## Contents
+
+- Small rust projects with core synthax
+- Projects from the [book](https://doc.rust-lang.org/book/)
+- Exercises from [rustlings code katas](https://github.com/rust-lang/rustlings)
+- Notes and examples from [Rust by Example](https://doc.rust-lang.org/rust-by-example/) 
 
 
