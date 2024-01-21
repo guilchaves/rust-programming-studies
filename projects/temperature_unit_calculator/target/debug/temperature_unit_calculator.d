@@ -1,0 +1,1 @@
+/home/guilherme/Workspace/rust/learning/rust-programming-language/projects/temperature_unit_calculator/target/debug/temperature_unit_calculator: /home/guilherme/Workspace/rust/learning/rust-programming-language/projects/temperature_unit_calculator/src/main.rs
